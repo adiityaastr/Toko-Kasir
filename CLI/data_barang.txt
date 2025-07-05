@@ -1,0 +1,2 @@
+1,Sembako,Beras,20000,0
+2,Sembako,Minyak,35000,0

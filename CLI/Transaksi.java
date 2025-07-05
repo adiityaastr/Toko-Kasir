@@ -21,4 +21,8 @@ public class Transaksi {
     public int getTotal() {
         return total;
     }
+
+    public List<TransaksiItem> getItems() {
+        return items;
+    }
 }
